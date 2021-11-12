@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3d8d06d-5597-4da9-9438-53201f4555c7" name="Default Changelist" comment="" />
+    <list default="true" id="8e454277-1a44-498d-9947-ca7c75eb3f77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="20eCrNgzy9NEWrgIsL7iZupfW4T" />
+  <component name="ProjectId" id="20oEzk1Qw2JhflYE0SBrsd0BeK4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,11 +34,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3d8d06d-5597-4da9-9438-53201f4555c7" name="Default Changelist" comment="" />
-      <created>1636395870583</created>
+      <changelist id="8e454277-1a44-498d-9947-ca7c75eb3f77" name="Default Changelist" comment="" />
+      <created>1636702807014</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636395870583</updated>
+      <updated>1636702807014</updated>
     </task>
     <servers />
   </component>
