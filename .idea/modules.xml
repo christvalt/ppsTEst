@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppstest.iml" filepath="$PROJECT_DIR$/.idea/modules/ppstest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppstest-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ppstest-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppsTEst.iml" filepath="$PROJECT_DIR$/.idea/modules/ppsTEst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppsTEst-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ppsTEst-build.iml" />
     </modules>
   </component>
 </project>
