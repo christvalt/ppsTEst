@@ -1,5 +1,3 @@
 package pack
 
-object control {
-
-}
+object control {}
